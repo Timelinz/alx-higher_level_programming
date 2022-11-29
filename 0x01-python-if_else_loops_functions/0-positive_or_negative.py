@@ -5,5 +5,5 @@ if number > 0:
     print("is positive")
 elif 0 == 0:
     print("is zero")
-else:
+    if number < 0:
     print("is negative")
